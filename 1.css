@@ -1,0 +1,18 @@
+#nav-bar-bottom{
+    height: 65px;
+    font-size:20px ;
+    font-weight:bold;
+    opacity: 0.5;
+}
+
+#center-box{
+    height:200px;
+    font-size: 30px;
+    font-weight:bold;
+    opacity:0.5;
+    
+}
+html,body{
+    height:200px;   
+    background-image: url('bg-2.jpg');
+}

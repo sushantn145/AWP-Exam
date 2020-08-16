@@ -1,0 +1,33 @@
+#background-img{
+    background:url('bg1.jpg');
+   height: 100vh;
+   width: 100vw; 
+    object-fit: cover;
+}
+
+#center-box{
+    height: 50vh;
+    width: 30vw;
+    opacity: 1;
+    padding-bottom: 5px;
+    border-radius:10px
+    
+}
+    
+#username{
+    width: 50vw;
+}
+#bottom-box{
+    height: 45vh;
+    width: 30vw;
+    opacity: 0.5; 
+    display: flex;
+    flex-direction: column;
+    padding-left: 10vw;
+    font-size: 30px;
+    background-color : white;
+    box-shadow: 5px 5px;
+    border-radius:10px;
+    font-weight:bold;
+    
+}
